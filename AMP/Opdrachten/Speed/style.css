@@ -1,0 +1,12 @@
+body{
+  background: midnightblue;
+  color: white;
+}
+#container{
+  width: 800px;
+  margin: auto;
+}
+#canvas{
+  background-color: skyblue;
+  border: 2px solid black
+}
